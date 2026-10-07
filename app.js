@@ -4,14 +4,15 @@
   const PAGE_SIZE = 30;
   function makeDays(batches) {
     const days = [];
-    let offset = 0;
+    const allWords = [];
     for (const batch of batches) {
-      for (let i = 0; i < batch.words.length; i += PAGE_SIZE) {
-        const words = batch.words.slice(i, i + PAGE_SIZE);
-        days.push({number: days.length + 1, start: offset + i + 1,
-          end: offset + i + words.length, words: words});
-      }
-      offset += batch.words.length;
+      for (const word of batch.words) allWords.push(word);
+    }
+    // 추가 파일의 경계와 관계없이 마지막 Day부터 30개를 채웁니다.
+    for (let i = 0; i < allWords.length; i += PAGE_SIZE) {
+      const words = allWords.slice(i, i + PAGE_SIZE);
+      days.push({number: days.length + 1, start: i + 1,
+        end: i + words.length, words: words});
     }
     return days;
   }
