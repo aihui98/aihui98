@@ -1,32 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JeongWoo Jang</title>
-  </head>
-
-  <body>
-    <h1>JeongWoo Jang</h1>
-
-
-    <h2>About Me</h2>
-    <p>
-      I am currently studying science&engineering and exploring various fields such as nuclear engineering,
-      physics, and energy engineering.
-    </p>
-
-    <h2>Education</h2>
-    <p>
-      Kyungdong Highschool : 2022~2024
-      Sogang University, Dept. of Physics : 2025
-      Pohang University of Science and Technology(POSTECH), Mechanical Engineering : 2026~
-    </p>
-
-
-    <h2>Contact</h2>
-    <p>Email: aihui98postech@ac.kr</p>
-    <p>GitHub: <a href="https://github.com/aihui98">aihui98</a></p>
-
-  </body>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f7f2">
+  <meta name="description" content="30개씩 읽고 원하는 항목을 가리는 간단한 일본어 단어장">
+  <title>일본어 단어장</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="words.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="masthead wrap">
+    <a class="brand" href="#" aria-label="일본어 단어장 전체 Day 목록"><span class="brand-mark" lang="ja" aria-hidden="true">日</span> 일본어 단어장</a>
+    <span class="small-label">30개씩, 차근차근.</span>
+  </header>
+  <section id="controls" class="controls" aria-label="전체 단어 표시 설정" hidden>
+    <div class="wrap">
+      <div class="control-caption">보고 싶은 항목만 켜 두세요.</div>
+      <div class="toggle-grid">
+        <button type="button" class="toggle" data-field="kanji" aria-pressed="true">한자 <span>ON</span></button>
+        <button type="button" class="toggle" data-field="furigana" aria-pressed="true">후리가나 <span>ON</span></button>
+        <button type="button" class="toggle" data-field="meaning" aria-pressed="true">뜻 <span>ON</span></button>
+        <button type="button" class="toggle" data-field="example" aria-pressed="true">예문 <span>ON</span></button>
+        <button type="button" class="toggle" data-field="translation" aria-pressed="true">예문 해석 <span>ON</span></button>
+      </div>
+    </div>
+  </section>
+  <main id="app" class="wrap"><p>단어장을 불러오는 중입니다.</p></main>
+  <noscript><p class="wrap">단어장을 사용하려면 브라우저의 JavaScript를 켜 주세요.</p></noscript>
+  <footer class="wrap footer">일본어 한 줄, 조금씩.</footer>
+</body>
 </html>
