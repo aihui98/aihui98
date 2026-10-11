@@ -46,6 +46,12 @@
   const days = makeDays(batches);
   if (!days.length) { showError(); return; }
   const total = days[days.length - 1].end;
+  const expectedCount = Number(app.dataset.expectedCount || 0);
+  if (expectedCount && total !== expectedCount) {
+    controls.hidden = true;
+    app.replaceChildren(el('p', 'error', '단어 데이터가 이 페이지의 버전과 맞지 않습니다. 필요한 단어는 ' + expectedCount + '개인데 현재 ' + total + '개를 읽었습니다. 업데이트 ZIP의 index.html, words.js, app.js, style.css를 같은 폴더에 교체한 뒤 새로고침해 주세요.'));
+    return;
+  }
   function maskField(node, field) {
     const masked = !visible[field];
     node.classList.toggle('is-masked', masked);
