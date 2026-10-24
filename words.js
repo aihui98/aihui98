@@ -11117,5 +11117,239 @@ window.VOCAB_BATCHES = [
       "sourceLine": 956
     }
   ]
+},
+{
+  "id": "added-19-20261025",
+  "source": "단어목록(9).txt",
+  "words": [
+    {
+      "id": 924,
+      "kanji": "誠に",
+      "furigana": "まことに",
+      "meaning": "정말로",
+      "example": "誠にありがとうございます。",
+      "translation": "정말 감사합니다.",
+      "note": "격식을 갖춘 표현에서 ‘정말로·진심으로’라는 뜻으로 씁니다.",
+      "sourceRomaji": "makotoni",
+      "sourceMeaning": "정말로",
+      "sourceLine": 959
+    },
+    {
+      "id": 925,
+      "kanji": "置き場",
+      "furigana": "おきば",
+      "meaning": "두는 곳",
+      "example": "自転車の置き場はどこですか。",
+      "translation": "자전거를 두는 곳은 어디인가요?",
+      "note": "",
+      "sourceRomaji": "okiba",
+      "sourceMeaning": "두는 곳",
+      "sourceLine": 960
+    },
+    {
+      "id": 926,
+      "kanji": "ことわざ",
+      "furigana": "ことわざ",
+      "meaning": "속담",
+      "example": "日本のことわざを一つ覚えた。",
+      "translation": "일본 속담을 하나 외웠다.",
+      "note": "",
+      "sourceRomaji": "kotowaza",
+      "sourceMeaning": "속담",
+      "sourceLine": 961
+    },
+    {
+      "id": 927,
+      "kanji": "せい",
+      "furigana": "せい",
+      "meaning": "탓, 원인, 때문",
+      "example": "雨のせいで試合が中止になった。",
+      "translation": "비 때문에 시합이 취소되었다.",
+      "note": "주로 좋지 않은 결과의 원인을 가리킵니다.",
+      "sourceRomaji": "sei",
+      "sourceMeaning": "탓, 원인, 때문",
+      "sourceLine": 962
+    },
+    {
+      "id": 928,
+      "kanji": "なくす",
+      "furigana": "なくす",
+      "meaning": "없애다",
+      "example": "生活の無駄をなくしたい。",
+      "translation": "생활 속의 낭비를 없애고 싶다.",
+      "note": "‘없애다’는 타동사 「なくす」입니다. 원문의 ‘없다’는 「ない」, ‘없어지다’는 「なくなる」에 해당합니다.",
+      "sourceRomaji": "nakusu",
+      "sourceMeaning": "없애다, 없다",
+      "sourceLine": 963
+    },
+    {
+      "id": 929,
+      "kanji": "縮む",
+      "furigana": "ちぢむ",
+      "meaning": "수축하다, 오그라들다",
+      "example": "洗ったら、シャツが縮んだ。",
+      "translation": "빨았더니 셔츠가 줄어들었다.",
+      "note": "",
+      "sourceRomaji": "chijimu",
+      "sourceMeaning": "수축하다, 오그라들다",
+      "sourceLine": 964
+    },
+    {
+      "id": 930,
+      "kanji": "とはいっても",
+      "furigana": "とはいっても",
+      "meaning": "그렇다고는 해도",
+      "example": "春になった。とはいっても、まだ寒い。",
+      "translation": "봄이 되었다. 그렇다고는 해도 아직 춥다.",
+      "note": "",
+      "sourceRomaji": "towaittemo",
+      "sourceMeaning": "그렇다고는 해도",
+      "sourceLine": 965
+    },
+    {
+      "id": 931,
+      "kanji": "評判",
+      "furigana": "ひょうばん",
+      "meaning": "평판",
+      "example": "この店は評判がいい。",
+      "translation": "이 가게는 평판이 좋다.",
+      "note": "",
+      "sourceRomaji": "hyouban",
+      "sourceMeaning": "평판",
+      "sourceLine": 966
+    },
+    {
+      "id": 932,
+      "kanji": "挟む",
+      "furigana": "はさむ",
+      "meaning": "끼우다",
+      "example": "パンにチーズを挟む。",
+      "translation": "빵 사이에 치즈를 끼우다.",
+      "note": "",
+      "sourceRomaji": "hasamu",
+      "sourceMeaning": "끼우다",
+      "sourceLine": 967
+    },
+    {
+      "id": 933,
+      "kanji": "それなり",
+      "furigana": "それなり",
+      "meaning": "그 나름",
+      "example": "この仕事はそれなりに楽しい。",
+      "translation": "이 일은 그 나름대로 즐겁다.",
+      "note": "",
+      "sourceRomaji": "sorenari",
+      "sourceMeaning": "그 나름",
+      "sourceLine": 968
+    },
+    {
+      "id": 934,
+      "kanji": "省エネ",
+      "furigana": "しょうえね",
+      "meaning": "에너지 절약",
+      "example": "電気をこまめに消して、省エネを心がける。",
+      "translation": "전등을 수시로 끄며 에너지 절약을 실천하려고 한다.",
+      "note": "「省エネルギー」의 줄임말입니다.",
+      "sourceRomaji": "syouene",
+      "sourceMeaning": "에너지 절약",
+      "sourceLine": 969
+    },
+    {
+      "id": 935,
+      "kanji": "だらけ",
+      "furigana": "だらけ",
+      "meaning": "투성이",
+      "example": "靴が泥だらけになった。",
+      "translation": "신발이 진흙투성이가 되었다.",
+      "note": "",
+      "sourceRomaji": "darake",
+      "sourceMeaning": "투성이",
+      "sourceLine": 970
+    },
+    {
+      "id": 936,
+      "kanji": "中食",
+      "furigana": "なかしょく",
+      "meaning": "반찬, 도시락 사와서 집에서 하는 식사",
+      "example": "忙しい日は、中食を利用する。",
+      "translation": "바쁜 날에는 조리된 음식을 사 와서 먹는다.",
+      "note": "",
+      "sourceRomaji": "nakasyoku",
+      "sourceMeaning": "반찬, 도시락 사와서 집에서 하는 식사",
+      "sourceLine": 971
+    },
+    {
+      "id": 937,
+      "kanji": "お惣菜",
+      "furigana": "おそうざい",
+      "meaning": "반찬",
+      "example": "スーパーでお惣菜を買った。",
+      "translation": "슈퍼마켓에서 반찬을 샀다.",
+      "note": "",
+      "sourceRomaji": "osouzai",
+      "sourceMeaning": "반찬",
+      "sourceLine": 972
+    },
+    {
+      "id": 938,
+      "kanji": "おかず",
+      "furigana": "おかず",
+      "meaning": "반찬",
+      "example": "今日のおかずは焼き魚です。",
+      "translation": "오늘 반찬은 생선구이입니다.",
+      "note": "",
+      "sourceRomaji": "okazu",
+      "sourceMeaning": "반찬",
+      "sourceLine": 973
+    },
+    {
+      "id": 939,
+      "kanji": "袋",
+      "furigana": "ふくろ",
+      "meaning": "주머니, 봉지",
+      "example": "袋にりんごを入れる。",
+      "translation": "봉지에 사과를 넣다.",
+      "note": "",
+      "sourceRomaji": "hukuro",
+      "sourceMeaning": "주머니, 봉지",
+      "sourceLine": 974
+    },
+    {
+      "id": 940,
+      "kanji": "飾り",
+      "furigana": "かざり",
+      "meaning": "장식",
+      "example": "部屋に花の飾りをつけた。",
+      "translation": "방에 꽃 장식을 달았다.",
+      "note": "",
+      "sourceRomaji": "kazari",
+      "sourceMeaning": "장식",
+      "sourceLine": 975
+    },
+    {
+      "id": 941,
+      "kanji": "了承",
+      "furigana": "りょうしょう",
+      "meaning": "양해",
+      "example": "予定の変更について、了承を得た。",
+      "translation": "일정 변경에 대해 양해를 얻었다.",
+      "note": "상황을 이해하고 받아들이는 뜻입니다.",
+      "sourceRomaji": "ryousyou",
+      "sourceMeaning": "양해",
+      "sourceLine": 976
+    },
+    {
+      "id": 942,
+      "kanji": "アスレチック",
+      "furigana": "あすれちっく",
+      "meaning": "애슬레틱, 체육",
+      "example": "週末に、アスレチックで体を動かした。",
+      "translation": "주말에 야외 운동시설에서 몸을 움직였다.",
+      "note": "운동·체육과 관련된 말입니다. 일상에서는 장애물을 넘으며 운동하는 시설을 가리키기도 합니다.",
+      "sourceRomaji": "asuretikku",
+      "sourceMeaning": "애슬레틱, 체육",
+      "sourceLine": 977
+    }
+  ]
 }
 ];
