@@ -12023,5 +12023,227 @@ window.VOCAB_BATCHES = [
       "sourceLine": 1036
     }
   ]
+},
+{
+  "id": "added-18-20261111",
+  "source": "단어목록(1).txt",
+  "words": [
+    {
+      "id": 998,
+      "kanji": "活躍",
+      "furigana": "かつやく",
+      "meaning": "활약",
+      "example": "彼は海外で活躍している。",
+      "translation": "그는 해외에서 활약하고 있다.",
+      "note": "",
+      "sourceRomaji": "katsuyaku",
+      "sourceMeaning": "활약",
+      "sourceLine": 1039
+    },
+    {
+      "id": 999,
+      "kanji": "成績",
+      "furigana": "せいせき",
+      "meaning": "성적",
+      "example": "今学期は成績が上がった。",
+      "translation": "이번 학기에는 성적이 올랐다.",
+      "note": "",
+      "sourceRomaji": "seiseki",
+      "sourceMeaning": "성적",
+      "sourceLine": 1040
+    },
+    {
+      "id": 1000,
+      "kanji": "黄色い",
+      "furigana": "きいろい",
+      "meaning": "노랗다",
+      "example": "黄色い花が咲いている。",
+      "translation": "노란 꽃이 피어 있다.",
+      "note": "",
+      "sourceRomaji": "kiiroi",
+      "sourceMeaning": "노랗다",
+      "sourceLine": 1041
+    },
+    {
+      "id": 1001,
+      "kanji": "ぼつぼつ",
+      "furigana": "ぼつぼつ",
+      "meaning": "올록볼록",
+      "example": "腕にぼつぼつができた。",
+      "translation": "팔에 오돌토돌한 것이 생겼다.",
+      "note": "작은 점·구멍·돌기 등이 여기저기 있는 모양을 가리킵니다. 예문에서는 작은 돌기를 뜻하는 명사로 쓰였습니다.",
+      "sourceRomaji": "botsubotsu",
+      "sourceMeaning": "올록볼록",
+      "sourceLine": 1042
+    },
+    {
+      "id": 1002,
+      "kanji": "ごつごつ",
+      "furigana": "ごつごつ",
+      "meaning": "울퉁불퉁",
+      "example": "この道は石が多くて、ごつごつしている。",
+      "translation": "이 길은 돌이 많아서 울퉁불퉁하다.",
+      "note": "단단한 물체의 표면이 거칠고 울퉁불퉁한 모양입니다.",
+      "sourceRomaji": "gotsugotsu",
+      "sourceMeaning": "울퉁불퉁",
+      "sourceLine": 1043
+    },
+    {
+      "id": 1003,
+      "kanji": "詐欺に遭う",
+      "furigana": "さぎにあう",
+      "meaning": "사기를 당하다",
+      "example": "友達が詐欺に遭った。",
+      "translation": "친구가 사기를 당했다.",
+      "note": "",
+      "sourceRomaji": "saginiau",
+      "sourceMeaning": "사기를 당하다",
+      "sourceLine": 1044
+    },
+    {
+      "id": 1004,
+      "kanji": "手すり",
+      "furigana": "てすり",
+      "meaning": "난간",
+      "example": "階段では手すりにつかまってください。",
+      "translation": "계단에서는 난간을 잡아 주세요.",
+      "note": "",
+      "sourceRomaji": "tesuri",
+      "sourceMeaning": "난간",
+      "sourceLine": 1045
+    },
+    {
+      "id": 1005,
+      "kanji": "空く",
+      "furigana": "あく",
+      "meaning": "비다",
+      "example": "席が空いたら、座りましょう。",
+      "translation": "자리가 비면 앉읍시다.",
+      "note": "자리가 ‘비다’는 空く, 문이 ‘열리다’는 開く입니다. 둘 다 あく로 읽습니다.",
+      "sourceRomaji": "aku",
+      "sourceMeaning": "비다",
+      "sourceLine": 1046
+    },
+    {
+      "id": 1006,
+      "kanji": "やる気",
+      "furigana": "やるき",
+      "meaning": "의욕, 할 마음",
+      "example": "今日はやる気が出てきた。",
+      "translation": "오늘은 의욕이 생겼다.",
+      "note": "",
+      "sourceRomaji": "yaruki",
+      "sourceMeaning": "의욕, 할 마음",
+      "sourceLine": 1047
+    },
+    {
+      "id": 1007,
+      "kanji": "本棚",
+      "furigana": "ほんだな",
+      "meaning": "책장",
+      "example": "本を本棚に戻した。",
+      "translation": "책을 책장에 도로 꽂았다.",
+      "note": "",
+      "sourceRomaji": "hondana",
+      "sourceMeaning": "책장",
+      "sourceLine": 1048
+    },
+    {
+      "id": 1008,
+      "kanji": "千",
+      "furigana": "せん",
+      "meaning": "천(숫자)",
+      "example": "この本は千円です。",
+      "translation": "이 책은 천 엔입니다.",
+      "note": "三千（さんぜん）, 八千（はっせん）처럼 발음이 바뀌기도 합니다.",
+      "sourceRomaji": "sen",
+      "sourceMeaning": "천(숫자)",
+      "sourceLine": 1049
+    },
+    {
+      "id": 1009,
+      "kanji": "どうして",
+      "furigana": "どうして",
+      "meaning": "왜, 어째서 (일상적)",
+      "example": "どうして遅れたんですか。",
+      "translation": "왜 늦었나요?",
+      "note": "",
+      "sourceRomaji": "dousite",
+      "sourceMeaning": "왜, 어째서 (일상적)",
+      "sourceLine": 1050
+    },
+    {
+      "id": 1010,
+      "kanji": "枚",
+      "furigana": "まい",
+      "meaning": "장 (종이 단위)",
+      "example": "紙を三枚ください。",
+      "translation": "종이 세 장 주세요.",
+      "note": "종이·사진처럼 얇고 평평한 물건을 세는 단위입니다.",
+      "sourceRomaji": "mai",
+      "sourceMeaning": "장 (종이 단위)",
+      "sourceLine": 1051
+    },
+    {
+      "id": 1011,
+      "kanji": "～っぱなし",
+      "furigana": "～っぱなし",
+      "meaning": "~한 채로",
+      "example": "電気をつけっぱなしにしないで。",
+      "translation": "전등을 켠 채로 두지 마.",
+      "note": "동사의 ます형에서 ます를 뺀 부분에 붙여, 어떤 상태를 그대로 두거나 행동을 계속함을 나타냅니다.",
+      "sourceRomaji": "ppanasi",
+      "sourceMeaning": "~한 채로",
+      "sourceLine": 1052
+    },
+    {
+      "id": 1012,
+      "kanji": "たまらない",
+      "furigana": "たまらない",
+      "meaning": "참을 수 없다",
+      "example": "暑くてたまらない。",
+      "translation": "더워서 견딜 수 없다.",
+      "note": "「～てたまらない」는 감각이나 감정이 매우 강해 ‘너무 ~하다·~해서 견딜 수 없다’라는 뜻입니다.",
+      "sourceRomaji": "tamaranai",
+      "sourceMeaning": "참을 수 없다",
+      "sourceLine": 1053
+    },
+    {
+      "id": 1013,
+      "kanji": "毎月",
+      "furigana": "まいつき",
+      "meaning": "매달",
+      "example": "毎月、一冊本を読む。",
+      "translation": "매달 책을 한 권 읽는다.",
+      "note": "まいげつ라고도 읽습니다.",
+      "sourceRomaji": "maitsuki",
+      "sourceMeaning": "매달",
+      "sourceLine": 1054
+    },
+    {
+      "id": 1014,
+      "kanji": "宅",
+      "furigana": "たく",
+      "meaning": "댁",
+      "example": "明日、お宅に伺ってもいいですか。",
+      "translation": "내일 댁에 찾아뵈어도 될까요?",
+      "note": "상대의 집을 높여 말할 때는 보통 お宅（おたく）이라고 합니다.",
+      "sourceRomaji": "taku",
+      "sourceMeaning": "댁",
+      "sourceLine": 1055
+    },
+    {
+      "id": 1015,
+      "kanji": "耳を貸す",
+      "furigana": "みみをかす",
+      "meaning": "귀를 기울이다",
+      "example": "少し私の話に耳を貸してください。",
+      "translation": "잠깐 제 이야기에 귀를 기울여 주세요.",
+      "note": "남의 말을 들어 주거나 받아들일 마음으로 듣는다는 뜻입니다.",
+      "sourceRomaji": "mimiwokasu",
+      "sourceMeaning": "귀를 기울이다",
+      "sourceLine": 1056
+    }
+  ]
 }
 ];
