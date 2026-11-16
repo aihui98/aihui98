@@ -12623,5 +12623,155 @@ window.VOCAB_BATCHES = [
       "sourceLine": 1089
     }
   ]
+},
+{
+  "id": "added-12-20261117",
+  "source": "단어목록(3).txt",
+  "words": [
+    {
+      "id": 1047,
+      "kanji": "取り組む",
+      "furigana": "とりくむ",
+      "meaning": "진지하게 임하다",
+      "example": "新しい課題に真剣に取り組んでいる。",
+      "translation": "새로운 과제에 진지하게 임하고 있다.",
+      "note": "「～に取り組む」처럼 대상에 に를 붙입니다.",
+      "sourceRomaji": "torikumu",
+      "sourceMeaning": "진지하게 임하다",
+      "sourceLine": 1092
+    },
+    {
+      "id": 1048,
+      "kanji": "～ことがある",
+      "furigana": "～ことがある",
+      "meaning": "때때로 ~하기도 한다",
+      "example": "忙しい日は、昼ご飯を食べないことがある。",
+      "translation": "바쁜 날에는 점심을 먹지 않을 때도 있다.",
+      "note": "동사의 기본형·ない형에 붙이면 ‘~할 때가 있다’입니다. 「～たことがある」는 ‘~한 적이 있다’라는 경험 표현입니다.",
+      "sourceRomaji": "kotogaaru",
+      "sourceMeaning": "때때로 ~하기도 한다",
+      "sourceLine": 1093
+    },
+    {
+      "id": 1049,
+      "kanji": "すらすら",
+      "furigana": "すらすら",
+      "meaning": "척척, 줄줄",
+      "example": "この本はすらすら読める。",
+      "translation": "이 책은 막힘없이 술술 읽을 수 있다.",
+      "note": "말이나 글 읽기, 문제 풀이 등이 막힘없이 진행되는 모양입니다.",
+      "sourceRomaji": "surasura",
+      "sourceMeaning": "척척, 줄줄",
+      "sourceLine": 1094
+    },
+    {
+      "id": 1050,
+      "kanji": "豊富",
+      "furigana": "ほうふ",
+      "meaning": "풍부",
+      "example": "この店は野菜の種類が豊富だ。",
+      "translation": "이 가게는 채소의 종류가 풍부하다.",
+      "note": "원문 hoohu는 뜻에 맞춰 豊富（ほうふ）로 정리했습니다.",
+      "sourceRomaji": "hoohu",
+      "sourceMeaning": "풍부",
+      "sourceLine": 1095
+    },
+    {
+      "id": 1051,
+      "kanji": "健闘",
+      "furigana": "けんとう",
+      "meaning": "건투, 분투",
+      "example": "チームは最後まで健闘した。",
+      "translation": "팀은 마지막까지 분투했다.",
+      "note": "「健闘する」는 어려운 상황에서도 힘껏 싸우거나 노력한다는 뜻입니다.",
+      "sourceRomaji": "kentou",
+      "sourceMeaning": "건투, 분투",
+      "sourceLine": 1096
+    },
+    {
+      "id": 1052,
+      "kanji": "省略",
+      "furigana": "しょうりゃく",
+      "meaning": "생략",
+      "example": "時間がないので、説明を省略します。",
+      "translation": "시간이 없으므로 설명을 생략하겠습니다.",
+      "note": "",
+      "sourceRomaji": "syouryaku",
+      "sourceMeaning": "생략",
+      "sourceLine": 1097
+    },
+    {
+      "id": 1053,
+      "kanji": "取り寄せる",
+      "furigana": "とりよせる",
+      "meaning": "주문해서 들여오다",
+      "example": "店に頼んで、この本を取り寄せた。",
+      "translation": "가게에 부탁해서 이 책을 주문해 들여왔다.",
+      "note": "",
+      "sourceRomaji": "toriyoseru",
+      "sourceMeaning": "주문해서 들여오다",
+      "sourceLine": 1098
+    },
+    {
+      "id": 1054,
+      "kanji": "見落とす",
+      "furigana": "みおとす",
+      "meaning": "간과하다, 못 보고 지나치다",
+      "example": "メールの大事な部分を見落とした。",
+      "translation": "메일의 중요한 부분을 못 보고 지나쳤다.",
+      "note": "",
+      "sourceRomaji": "miotosu",
+      "sourceMeaning": "간과하다, 못 보고 지나치다",
+      "sourceLine": 1099
+    },
+    {
+      "id": 1055,
+      "kanji": "引き止める",
+      "furigana": "ひきとめる",
+      "meaning": "만류하다",
+      "example": "仕事を辞めようとする友達を引き止めた。",
+      "translation": "일을 그만두려는 친구를 만류했다.",
+      "note": "확인 필요: 원문 hikiyameru는 뜻에 맞춰 hikitomeru（ひきとめる）로 추정했습니다.",
+      "sourceRomaji": "hikiyameru",
+      "sourceMeaning": "만류하다",
+      "sourceLine": 1100
+    },
+    {
+      "id": 1056,
+      "kanji": "でたらめ",
+      "furigana": "でたらめ",
+      "meaning": "엉터리, 아무렇게나",
+      "example": "彼の話はでたらめだった。",
+      "translation": "그의 이야기는 엉터리였다.",
+      "note": "근거 없는 엉터리나 제멋대로인 모양을 가리킵니다.",
+      "sourceRomaji": "detarame",
+      "sourceMeaning": "엉터리, 아무렇게나",
+      "sourceLine": 1101
+    },
+    {
+      "id": 1057,
+      "kanji": "いい加減",
+      "furigana": "いいかげん",
+      "meaning": "무책임, 대충/ 적당함",
+      "example": "いい加減な返事をしないでください。",
+      "translation": "무책임하게 대충 대답하지 마세요.",
+      "note": "문맥에 따라 뜻이 달라집니다. 「いい加減な返事」는 성의 없는 대답, 「いい加減の湯」는 온도가 적당한 목욕물입니다.",
+      "sourceRomaji": "iikagen",
+      "sourceMeaning": "무책임, 대충/ 적당함",
+      "sourceLine": 1102
+    },
+    {
+      "id": 1058,
+      "kanji": "姿",
+      "furigana": "すがた",
+      "meaning": "모습, 자태",
+      "example": "駅で友達の姿を見かけた。",
+      "translation": "역에서 친구의 모습을 보았다.",
+      "note": "원문 뜻: 분위기, 자세 (생생한 생김새?). 주로 눈에 보이는 모습·차림·자태를 가리킵니다.",
+      "sourceRomaji": "sugata",
+      "sourceMeaning": "분위기, 자세 (생생한 생김새?)",
+      "sourceLine": 1103
+    }
+  ]
 }
 ];
