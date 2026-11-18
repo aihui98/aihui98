@@ -12773,5 +12773,263 @@ window.VOCAB_BATCHES = [
       "sourceLine": 1103
     }
   ]
+},
+{
+  "id": "added-21-20261119",
+  "source": "단어목록(4).txt",
+  "words": [
+    {
+      "id": 1059,
+      "kanji": "皺",
+      "furigana": "しわ",
+      "meaning": "주름, 구김살",
+      "example": "シャツにしわが付いている。",
+      "translation": "셔츠에 구김살이 생겨 있다.",
+      "note": "일상에서는 히라가나 「しわ」로도 많이 씁니다.",
+      "sourceRomaji": "siwa",
+      "sourceMeaning": "주름, 구김살",
+      "sourceLine": 1106
+    },
+    {
+      "id": 1060,
+      "kanji": "カビ",
+      "furigana": "かび",
+      "meaning": "곰팡이",
+      "example": "パンにカビが生えた。",
+      "translation": "빵에 곰팡이가 피었다.",
+      "note": "한자 「黴」보다 「カビ・かび」 표기가 일반적입니다.",
+      "sourceRomaji": "kabi",
+      "sourceMeaning": "곰팡이",
+      "sourceLine": 1107
+    },
+    {
+      "id": 1061,
+      "kanji": "錆",
+      "furigana": "さび",
+      "meaning": "녹",
+      "example": "自転車のチェーンに錆が出た。",
+      "translation": "자전거 체인에 녹이 생겼다.",
+      "note": "",
+      "sourceRomaji": "sabi",
+      "sourceMeaning": "녹",
+      "sourceLine": 1108
+    },
+    {
+      "id": 1062,
+      "kanji": "崩れる",
+      "furigana": "くずれる",
+      "meaning": "무너지다, 흐트러지다",
+      "example": "積んだ箱が崩れた。",
+      "translation": "쌓아 놓은 상자가 무너졌다.",
+      "note": "",
+      "sourceRomaji": "kuzureru",
+      "sourceMeaning": "무너지다, 흐트러지다",
+      "sourceLine": 1109
+    },
+    {
+      "id": 1063,
+      "kanji": "ぼんやり",
+      "furigana": "ぼんやり",
+      "meaning": "멍하니",
+      "example": "窓の外をぼんやり見ていた。",
+      "translation": "창밖을 멍하니 보고 있었다.",
+      "note": "원문 bonyari를 「ぼんやり」로 정리했습니다.",
+      "sourceRomaji": "bonyari",
+      "sourceMeaning": "멍하니",
+      "sourceLine": 1110
+    },
+    {
+      "id": 1064,
+      "kanji": "バーゲン",
+      "furigana": "ばーげん",
+      "meaning": "특가 판매",
+      "example": "バーゲンで服を買った。",
+      "translation": "특가 판매 때 옷을 샀다.",
+      "note": "",
+      "sourceRomaji": "ba-gen",
+      "sourceMeaning": "특가 판매",
+      "sourceLine": 1111
+    },
+    {
+      "id": 1065,
+      "kanji": "ファスナー",
+      "furigana": "ふぁすなー",
+      "meaning": "지퍼",
+      "example": "かばんのファスナーが壊れた。",
+      "translation": "가방의 지퍼가 고장 났다.",
+      "note": "일반적인 표기는 「ファスナー」입니다. 「ファ」 뒤에는 장음이 없습니다.",
+      "sourceRomaji": "faasuna-",
+      "sourceMeaning": "지퍼",
+      "sourceLine": 1112
+    },
+    {
+      "id": 1066,
+      "kanji": "クレーム",
+      "furigana": "くれーむ",
+      "meaning": "항의, 불만 제기",
+      "example": "商品に傷があったので、店にクレームを入れた。",
+      "translation": "상품에 흠집이 있어서 가게에 항의했다.",
+      "note": "「クレームを入れる」는 불만을 제기하거나 항의한다는 뜻입니다.",
+      "sourceRomaji": "kure-mu",
+      "sourceMeaning": "항의, 불만 제기",
+      "sourceLine": 1113
+    },
+    {
+      "id": 1067,
+      "kanji": "アイロン",
+      "furigana": "あいろん",
+      "meaning": "다리미",
+      "example": "シャツにアイロンをかけた。",
+      "translation": "셔츠를 다림질했다.",
+      "note": "원문 뜻: 다림질. 「アイロン」은 도구인 ‘다리미’, 「アイロンをかける」는 ‘다림질하다’입니다.",
+      "sourceRomaji": "airon",
+      "sourceMeaning": "다림질",
+      "sourceLine": 1114
+    },
+    {
+      "id": 1068,
+      "kanji": "外科",
+      "furigana": "げか",
+      "meaning": "외과",
+      "example": "けがをしたので、外科で診てもらった。",
+      "translation": "다쳐서 외과에서 진료를 받았다.",
+      "note": "",
+      "sourceRomaji": "geka",
+      "sourceMeaning": "외과",
+      "sourceLine": 1115
+    },
+    {
+      "id": 1069,
+      "kanji": "くたびれる",
+      "furigana": "くたびれる",
+      "meaning": "녹초가 되다, 지치다",
+      "example": "一日中歩いて、くたびれた。",
+      "translation": "하루 종일 걸어서 지쳤다.",
+      "note": "",
+      "sourceRomaji": "kutabireru",
+      "sourceMeaning": "녹초가 되다, 지치다",
+      "sourceLine": 1116
+    },
+    {
+      "id": 1070,
+      "kanji": "エプロン",
+      "furigana": "えぷろん",
+      "meaning": "앞치마",
+      "example": "料理をする前にエプロンを着けた。",
+      "translation": "요리하기 전에 앞치마를 둘렀다.",
+      "note": "",
+      "sourceRomaji": "epuron",
+      "sourceMeaning": "앞치마",
+      "sourceLine": 1117
+    },
+    {
+      "id": 1071,
+      "kanji": "段ボール",
+      "furigana": "だんぼーる",
+      "meaning": "골판지",
+      "example": "段ボールで箱を作った。",
+      "translation": "골판지로 상자를 만들었다.",
+      "note": "골판지 상자는 「段ボール箱（だんぼーるばこ）」이며, 문맥에 따라 「段ボール」만으로 상자를 가리키기도 합니다.",
+      "sourceRomaji": "danbo-ru",
+      "sourceMeaning": "골판지",
+      "sourceLine": 1118
+    },
+    {
+      "id": 1072,
+      "kanji": "ラップ",
+      "furigana": "らっぷ",
+      "meaning": "랩 (식품 포장)",
+      "example": "皿にラップをかけた。",
+      "translation": "접시에 랩을 씌웠다.",
+      "note": "",
+      "sourceRomaji": "rappu",
+      "sourceMeaning": "랩 (식품 포장)",
+      "sourceLine": 1119
+    },
+    {
+      "id": 1073,
+      "kanji": "ストーブ",
+      "furigana": "すとーぶ",
+      "meaning": "난방기",
+      "example": "寒いので、ストーブをつけた。",
+      "translation": "추워서 난방기를 켰다.",
+      "note": "보통 방을 따뜻하게 하는 난로·난방기를 가리킵니다.",
+      "sourceRomaji": "suto-bu",
+      "sourceMeaning": "난방기",
+      "sourceLine": 1120
+    },
+    {
+      "id": 1074,
+      "kanji": "ノルマ",
+      "furigana": "のるま",
+      "meaning": "할당량",
+      "example": "今日のノルマを達成した。",
+      "translation": "오늘의 할당량을 달성했다.",
+      "note": "",
+      "sourceRomaji": "noruma",
+      "sourceMeaning": "할당량",
+      "sourceLine": 1121
+    },
+    {
+      "id": 1075,
+      "kanji": "デマ",
+      "furigana": "でま",
+      "meaning": "헛소문",
+      "example": "そのうわさはデマだった。",
+      "translation": "그 소문은 헛소문이었다.",
+      "note": "",
+      "sourceRomaji": "dema",
+      "sourceMeaning": "헛소문",
+      "sourceLine": 1122
+    },
+    {
+      "id": 1076,
+      "kanji": "ピンチ",
+      "furigana": "ぴんち",
+      "meaning": "위기, 곤경",
+      "example": "ピンチのとき、友達が助けてくれた。",
+      "translation": "곤경에 처했을 때 친구가 도와주었다.",
+      "note": "",
+      "sourceRomaji": "pinchi",
+      "sourceMeaning": "위기, 곤경",
+      "sourceLine": 1123
+    },
+    {
+      "id": 1077,
+      "kanji": "通じる",
+      "furigana": "つうじる",
+      "meaning": "통하다",
+      "example": "この店では英語が通じる。",
+      "translation": "이 가게에서는 영어가 통한다.",
+      "note": "",
+      "sourceRomaji": "tsuujiru",
+      "sourceMeaning": "통하다",
+      "sourceLine": 1124
+    },
+    {
+      "id": 1078,
+      "kanji": "ずれる",
+      "furigana": "ずれる",
+      "meaning": "어긋나다, 밀리다",
+      "example": "予定が一日ずれた。",
+      "translation": "일정이 하루 밀렸다.",
+      "note": "",
+      "sourceRomaji": "zureru",
+      "sourceMeaning": "어긋나다, 밀리다",
+      "sourceLine": 1125
+    },
+    {
+      "id": 1079,
+      "kanji": "詰まる",
+      "furigana": "つまる",
+      "meaning": "막히다, 꽉 차다",
+      "example": "排水口が詰まって、水が流れない。",
+      "translation": "배수구가 막혀서 물이 내려가지 않는다.",
+      "note": "「予定が詰まっている」처럼 일정 등이 꽉 차 있다는 뜻으로도 씁니다.",
+      "sourceRomaji": "tsumaru",
+      "sourceMeaning": "막히다, 꽉 차다",
+      "sourceLine": 1126
+    }
+  ]
 }
 ];
